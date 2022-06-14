@@ -184,6 +184,10 @@ PRODUCT_PACKAGES += \
     IPACM_Filter_cfg.xml \
     IPACM_cfg.xml
 
+# IFAA manager
+PRODUCT_PACKAGES += \
+     IFAAService
+
 # IR
 PRODUCT_PACKAGES += \
     android.hardware.ir-service.example
